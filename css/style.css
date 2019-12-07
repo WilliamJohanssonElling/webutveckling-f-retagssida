@@ -2,6 +2,7 @@
 4px 8px 16px 24px 32px 48px 64px 128px 256px 
 font-family: 'Muli', sans-serif;
 font-family: 'Lora', serif;
+634 x 300
 */
 
 @import url('https://fonts.googleapis.com/css?family=Lora|Muli&display=swap');
@@ -79,7 +80,7 @@ article .text-grid img {
 	object-fit: cover;
 }
 
-article .text-grid h3 {
+article .text-grid section h3 {
 	margin-bottom: 8px;
 }
 
